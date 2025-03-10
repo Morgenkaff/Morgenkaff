@@ -1,6 +1,6 @@
 # Morgenkaff
 
-My own work is at [https://gitlab.com/Morgenkaff](https://gitlab.com/Morgenkaff) these days.
+My own work is at [https://codeberg.org/morgenkaff](https://codeberg.org/morgenkaff) these days.
 
 <!---
 Morgenkaff/Morgenkaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
